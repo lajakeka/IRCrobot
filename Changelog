@@ -1,0 +1,8 @@
+Version 2.0 (Beta)
+- Basic features and settings moved to separate source code files.
+- Version prompt improved.
+- The version of the .NET platform is no longer displayed for security reasons.
+- The debug feature has been removed.
+
+Version 1.0
+- First non-public release.
