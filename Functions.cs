@@ -76,7 +76,7 @@ namespace Functions
         }
 
         //
-        // Send a CTCP reply to a user
+        // Compose a CTCP reponse, to be replied to a user
         //
         public static string CTCPResponseString(string message)
         {
