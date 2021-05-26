@@ -86,8 +86,6 @@ namespace IRCrobot
                         SendRawPacket(writer, $"PING :{nick}");
                     }, null, TimeSpan.Zero, TimeSpan.FromSeconds(30));
 
-                    int hello_count = 0;
-
                     //
                     // Commands and behavior while IRCrobot is running
                     //
